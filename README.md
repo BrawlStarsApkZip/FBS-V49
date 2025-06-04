@@ -12,7 +12,7 @@
 3: Type python Core.py and it's done, follow client instructions.
 
 ### Android client ###
-1: Download the [apk]() (soon)
+1: Download the [apk](https://t.me/BrawlStars_Archives/3300)
 
 2: Download an apk editor of your choice
 
